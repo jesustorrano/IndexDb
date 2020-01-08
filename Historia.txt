@@ -1,0 +1,6 @@
+Esta es la historia de Jesus Manuel Torrano 
+
+Aprendiendo Git y Github
+
+hoy toca aprender a manejar git en mac
+
